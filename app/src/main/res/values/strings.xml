@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Número Secreto</string>
+    <string name="main_text">Insira um número de 0 a 10 e tente advinhar o número secreto.</string>
+    <string name="button_play">Jogar</string>
+    <string name="button_new_game">Novo Jogo</string>
+    <string name="edit_text_hint">Insira o seu número</string>
+    <string name="correct_answer">Parabéns!!! Você acertou.</string>
+    <string name="less_than_answer">Tente novamente, Seu número é menor que o número secreto.</string>
+    <string name="bigger_than_answer">Tente novamente, Seu número é maior que o número secreto.</string>
+</resources>
